@@ -3,7 +3,9 @@ alfdaumdict : Daum Dictionary Workflow for Alfred
 
 Daum Dictionary Workflow for Alfred
 
-Alfred에서 다음 사전을 검색하는 워크플로우
+Alfred에서 다음 사전을 검색하는 워크플로우입니다.
+
+aesom 님의 [알프레드 워크플로우](https://github.com/aseom/alfred-workflows)를 python3 에 맞게 수정 및 개선하였습니다.
 
 Install workflow
 --------------
