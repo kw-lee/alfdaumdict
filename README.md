@@ -32,7 +32,7 @@ Requirements
 
 ```bash
 git submodule update --init --recursive
-pip install -r requirements.txt -t workflow/lib
+pip install -r requirements.txt
 ```
 
 License
